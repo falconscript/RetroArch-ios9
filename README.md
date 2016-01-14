@@ -17,3 +17,9 @@ To run on your phone, install git through cydia, then open a terminal on your ph
 
 
 If you have AT&T internet, the wgets may fail due to them blocking my host sometimes... File an issue if that happens
+
+
+Once installed:
+ 1. Tap Retroarch icon
+ 2. Tap Online Updater and tap to update EACH of the list EXCEPT for 'Core Updater' (give maybe 10 seconds between each line)
+ 3. Ready to play! Go to Main Menu -> Load Content -> Navigate in the file menu to choose your ROMs
