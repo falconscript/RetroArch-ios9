@@ -9,8 +9,11 @@ Script must be run ON the iPhone. Must have installed from Cydia:
  - git - only used to check out repository. You can SCP the script instead.
 
 To run on your phone, install git through cydia, then open a terminal on your phone:
-- git clone https://github.com/falconscript/RetroArch-ios9.git
-- ./RetroArch-ios9/install-ra-ios9.sh
+```bash
+git clone https://github.com/falconscript/RetroArch-ios9.git
+cd RetroArch-ios9
+./install-ra-ios9.sh
+```
 
 
 # After Installing
